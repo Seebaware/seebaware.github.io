@@ -1,8 +1,8 @@
 {
-    "title": "Coming Soon",
-    "name": "startbootstrap-coming-soon",
-    "version": "4.0.0",
-    "description": "Coming Soon is a Bootstrap 4 coming soon page theme.",
+    "title": "1 Col Portfolio",
+    "name": "startbootstrap-1-col-portfolio",
+    "version": "4.1.1",
+    "description": "A one column portfolio HTML template built with Bootstrap",
     "keywords": [
         "css",
         "sass",
@@ -11,9 +11,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/coming-soon",
+    "homepage": "https://startbootstrap.com/template-overviews/1-col-portfolio",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon/issues",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -23,21 +23,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio.git"
     },
     "dependencies": {
-        "bootstrap": "4.0.0",
-        "font-awesome": "4.7.0",
-        "jquery": "3.3.1",
-        "vide": "^0.5.1"
+        "bootstrap": "4.1.1",
+        "jquery": "3.3.1"
     },
     "devDependencies": {
-        "browser-sync": "2.23.6",
-        "gulp": "^3.9.1",
-        "gulp-clean-css": "3.9.2",
-        "gulp-header": "2.0.1",
-        "gulp-rename": "^1.2.2",
-        "gulp-sass": "^3.1.0",
-        "gulp-uglify": "3.0.0"
+        "browser-sync": "2.24.5",
+        "gulp": "^3.9.1"
     }
 }
