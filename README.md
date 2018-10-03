@@ -16,16 +16,6 @@
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio?type=dev)
 
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/1-col-portfolio/)
-* Install via npm: `npm i startbootstrap-1-col-portfolio`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio)
-
-## Usage
-
 ### Basic Usage
 
 After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
@@ -63,4 +53,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/gh-pages/LICENSE) license.
+Copyright 2018 Tech 230. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/gh-pages/LICENSE) license.
